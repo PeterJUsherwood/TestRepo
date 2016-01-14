@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwerty
+=======
+asdfghjkl
+>>>>>>> refs/remotes/origin/Jake's-Branch
